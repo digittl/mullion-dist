@@ -5,5 +5,18 @@
         <link>https://digittl.github.io/mullion-dist/appcast.xml</link>
         <description>Most recent Mullion release.</description>
         <language>en</language>
+        <item>
+            <title>Version 0.1.0</title>
+            <link>https://github.com/digittl/mullion/releases/tag/v0.1.0</link>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Thu, 11 Jun 2026 04:42:47 +0000</pubDate>
+            <enclosure
+                url="https://digittl.github.io/mullion-dist/Mullion-0.1.0.zip"
+                sparkle:edSignature="nS8/Ww+q2vzZmIFD6vCcjeZORDXAm9rYe/AMx90eXwvB2KHGK3CT5O00u5u4I2ZOf+vbYAwdroKvTPLRRm0RBg=="
+                length="1009401"
+                type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
