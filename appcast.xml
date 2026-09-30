@@ -6,16 +6,16 @@
         <description>Most recent Mullion release.</description>
         <language>en</language>
         <item>
-            <title>Version 0.6.0</title>
-            <link>https://github.com/digittl/mullion/releases/tag/v0.6.0</link>
-            <sparkle:version>0.6.0</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <title>Version 0.6.1</title>
+            <link>https://github.com/digittl/mullion/releases/tag/v0.6.1</link>
+            <sparkle:version>0.6.1</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <pubDate>Wed, 30 Sep 2026 23:23:00 +0000</pubDate>
+            <pubDate>Wed, 30 Sep 2026 23:53:47 +0000</pubDate>
             <enclosure
-                url="https://digittl.github.io/mullion-dist/Mullion-0.6.0.zip"
-                sparkle:edSignature="/7oVPdbsIXVruG/xV3+GZdDcxG5ezdWg8L43b47uMudeKxqdI90RNZYgKXGAPFDEs+r8+w5iO4euWD99M9sSBQ=="
-                length="2549093"
+                url="https://digittl.github.io/mullion-dist/Mullion-0.6.1.zip"
+                sparkle:edSignature="qtUydK4gdmNzBaGcqxzLF9iWRBFnmuFNYsjm3/4z+M77Ed3DjpibVZnX8HkDumlHd7RgYfog89JqN5O9U/bhDQ=="
+                length="2570184"
                 type="application/octet-stream" />
         </item>
     </channel>
